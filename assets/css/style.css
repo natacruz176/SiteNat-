@@ -1,0 +1,18 @@
+h1{
+    font-size: 90px;
+}
+
+
+
+
+@media (max-width:768px) {
+
+   h1{
+    font-size: 12px;
+   } 
+
+   
+   
+    
+}
+
