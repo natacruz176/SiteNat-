@@ -16,3 +16,48 @@ h1{
     
 }
 
+body {
+    
+    background: url(../Img/backgroud.avif) no-repeat center center / cover;
+    height: 150vh; /* Garante que a imagem ocupe toda a altura da tela */
+    margin: 0;
+}
+
+#arte{
+    position: relative;
+    right: 40%;
+}
+
+#arteimg{
+    position: relative;
+    right: 24%;
+}
+
+#Primeiro{
+position: relative;
+    right: 17%;
+
+}
+
+#GuiaRapido{
+    position: relative;
+    right: 40%;
+
+}
+
+#GuiaRapidoimg{
+    position: relative;
+    right: 38%;
+
+}
+
+#Segundo{
+    position: relative;
+    right: 17%;
+    margin-top: 50px;
+    
+    
+
+}
+
+
