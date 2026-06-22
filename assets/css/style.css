@@ -23,7 +23,7 @@ h2{
 #projetos {
     
     background: url(../Img/joss-woodhead-3wFRlwS91yk-unsplash.jpg) no-repeat center center / cover;
-    height: 170vh; /* Garante que a imagem ocupe toda a altura da tela */
+    height: 140vh; /* Garante que a imagem ocupe toda a altura da tela */
     margin: 0;
 }
 
@@ -32,6 +32,18 @@ h2{
   font-weight: 400;
   font-style: normal;
 }
+
+
+.sail-regular {
+  font-family: "Sail", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+
+
 
 
 
@@ -62,7 +74,7 @@ position: relative;
 
 #GuiaRapidoimg{
     position: relative;
-    right: 38%;
+    right: 37%;
 
 }
 
@@ -73,6 +85,14 @@ position: relative;
     
     
 
+}
+
+
+h1{
+    position: relative;
+    left: 0%;
+    top: 300px;
+    
 }
 
 
