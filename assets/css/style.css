@@ -46,23 +46,28 @@ h2{
   font-style: normal;
 }
 
+#MP {
+    position: relative;
+    top: -35%;
+}
 
 
 
 
+.bg-verde-escuro { background-color: #132415 !important; }
 
 
 
 
 #arte{
     position: relative;
-    left: 26%;
+    left: 30%;
     top: -220px;
 }
 
 #arteimg{
     position: relative;
-    right: 24%;
+    right: 20%;
 }
 
 #Primeiro{
@@ -73,14 +78,14 @@ position: relative;
 
 #GuiaRapido{
     position: relative;
-    right: 40%;
-    top: 20px;
+    right: -30%;
+    top: -220px;
 
 }
 
 #GuiaRapidoimg{
     position: relative;
-    right: 37%;
+    right: 30%;
 
 }
 
